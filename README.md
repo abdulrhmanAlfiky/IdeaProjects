@@ -1,4 +1,4 @@
-# IdeaProjects
+# Abdulrhman Alfiky
 
 test automation script for instabug task executing the following TCs
 
